@@ -1,51 +1,51 @@
-# 👺 Japan
+# Japan
 
 ![image 5](https://github.com/VictorBravim/Japan/assets/122113588/146a7653-9077-48bc-ab99-af5e8671520d)
 
 
-## 🚀 Overview
+## <code>Introdução</code>
 
-This project is built using Next.js, TypeScript and Tailwind featuring several components that together create a website to explore the beauty and culture of Japan.
+Este projeto é construído usando Next.js, TypeScript e Tailwind apresentando diversos componentes que serve como estudo e prática de estrutura front-end.
 
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - Node.js
 - npm ou yarn
 - react-slick
 
-## Installation
+## <code>Configuração</code>
 
-1. 🔧 Clone this repository:
+1. Clone este repositório:
    
 ```
 git clone https://github.com/VictorBravim/Japan.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
    
 ```
 cd Japan
 ```
 
-3. Install dependencies:
+3. Instale dependências:
 
 ```
 npm install
 ```
 
-## 🛠️ Project Structure
+## <code>Estrutura</code>
 
-- components: Contains the React components used throughout the site.
-- Nav.tsx: Navigation component with scrolling functionality.
-- Hero.tsx: Home section featuring Japan with an image and text.
-- About.tsx: Section detailing information about Japanese culture using an accordion layout.
-- Locations.tsx: Section displaying specific locations in Japan using a carousel component (react-slick).
-- Cambio.tsx: Currency converter component to convert BRL to JPY.
-- Footer.tsx: Footer component with links and logo.
-- pages: Contains the Next.js pages.
-- index.tsx: Main page (Home) integrating all components.
-- globals.css: Global CSS file for styling using Tailwind CSS.
+- components: Contém os componentes React usados ​​em todo o site.
+- Nav.tsx: Componente de navegação com funcionalidade de rolagem.
+- Hero.tsx: Seção inicial apresentando o Japão com imagem e texto.
+- About.tsx: Seção detalhando informações sobre a cultura japonesa usando um layout de acordeão.
+- Locations.tsx: Seção exibindo locais específicos no Japão usando um componente carrossel (react-slick).
+- Cambio.tsx: Componente conversor de moeda para converter BRL em JPY.
+- Footer.tsx: Componente de rodapé com links e logotipo.
+- pages: Contém as páginas Next.js.
+- index.tsx: Página principal (Home) integrando todos os componentes.
+- globals.css: Arquivo CSS global para estilização usando Tailwind CSS.
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
